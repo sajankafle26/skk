@@ -1,0 +1,30 @@
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.top 
+{
+    background: #044404;
+}
+.mero-bg 
+{
+    background:#247C04;
+}
+.navbar-expand-lg .navbar-nav .nav-link
+{
+    color: white;
+}
+.banner
+{
+    background: linear-gradient(#044404,#247C04);
+}
+.banner img 
+{
+    height: 450px;
+    object-fit: cover;
+}
+footer 
+{
+    background: #247C04;
+}
